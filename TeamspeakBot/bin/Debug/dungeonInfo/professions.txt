@@ -1,0 +1,3 @@
+// Professions will be given by answers to the questions & randomness, thus after profession there are terms that can 
+//be associated with that profession to help link them to the answers
+Priest - priest, kind, noble, light, caster, spell, holy, patient

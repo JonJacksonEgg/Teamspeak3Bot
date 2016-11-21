@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>VideoLibrary</id>
+    <version>1.3.3</version>
+    <title>libvideo</title>
+    <authors>James Ko</authors>
+    <owners>James Ko</owners>
+    <licenseUrl>https://github.com/jamesqo/libvideo/blob/master/bsd.license</licenseUrl>
+    <projectUrl>https://github.com/jamesqo/libvideo</projectUrl>
+    <iconUrl>https://github.com/jamesqo/libvideo/raw/master/icons/icon_128.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>libvideo is a fast, clean way to download YouTube videos. It is fully portable and has no dependencies.
+
+    Find us on GitHub at https://github.com/jamesqo/libvideo</description>
+    <summary>The cleaner way to download from YouTube.</summary>
+    <releaseNotes />
+    <copyright />
+    <tags>youtube youtubeextractor libvideo lib libs video videos library libraries download extract get vimeo scrape scraping downloader extractor getter scraper youtubeextract videolibrary winrt wp windows phone pcl portable class .net framework core xamarin mono monotouch xamarin.ios ios xamarin.android android</tags>
+  </metadata>
+</package>

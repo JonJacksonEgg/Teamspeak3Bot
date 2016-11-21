@@ -1,0 +1,9 @@
+C:\Users\Jon\Desktop\MyPrograms\DrGirth's Trivia Triumpth\TriviaBot\TriviaBot\bin\Debug\TriviaBot.exe.config
+C:\Users\Jon\Desktop\MyPrograms\DrGirth's Trivia Triumpth\TriviaBot\TriviaBot\bin\Debug\TriviaBot.exe
+C:\Users\Jon\Desktop\MyPrograms\DrGirth's Trivia Triumpth\TriviaBot\TriviaBot\bin\Debug\TriviaBot.pdb
+C:\Users\Jon\Desktop\MyPrograms\DrGirth's Trivia Triumpth\TriviaBot\TriviaBot\obj\Debug\TriviaBot.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\MyPrograms\DrGirth's Trivia Triumpth\TriviaBot\TriviaBot\obj\Debug\TriviaBot.exe
+C:\Users\Jon\Desktop\MyPrograms\DrGirth's Trivia Triumpth\TriviaBot\TriviaBot\obj\Debug\TriviaBot.pdb
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\bin\Debug\TriviaBot.exe.config
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\obj\Debug\TriviaBot.exe
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\obj\Debug\TriviaBot.pdb

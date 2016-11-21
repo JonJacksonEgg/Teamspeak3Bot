@@ -1,0 +1,532 @@
+//Using the tag [---] will define a new race and the names below it are a name for that race, the number after represent
+//the races stat bonuses (max 5) for each stat: STR, INT, CHR, AGI (should all = 10 for balance)
+//ADD -RARE to the end if the race is rare
+//ADD -DISLIKED to the end if the race is looked down at
+//
+[Human]2,3,3,2
+Gere
+Wulfa
+Roguy
+Wige
+Symund
+Anien
+Bertio
+Pholes Nete
+Here
+Behrtio
+Athyer Clarde
+Reowy
+Rewyn
+Hege
+Alent Stery
+Beade
+Ealcalh
+Stephye
+Sige
+Gylas
+Andrert
+Gery
+Vyncent
+Uthhed
+Wulfa
+Exan Arlyn
+Beorhtio
+Riffin
+Reder Grene
+Georguy
+Reda
+Lexand
+Hamond Alter
+Cyne
+Riffolk
+Wulfne
+Cenwy
+Dryany Warre
+Acerth
+Walter Evet
+Marteph
+Sige
+Roguy
+Balda
+Reward
+Gauwalt
+Jamund Pary
+Cyne
+Ealhed
+Walde
+Beorhtio
+Andes
+Ewip
+Eadund
+Gerey
+Gery Roby
+Marter
+Bertio
+Finy
+Willas
+Wulfa
+Dire
+Waerfa
+Helwy
+Hamas
+Cyne
+Gyles
+Eardurg
+Here
+Heore
+Aldred
+Behrtio
+Harder Gery
+Hamund
+Sawiu
+Withelm
+Erard
+Hearda
+Here
+Hiles
+Wine
+Hany Wysor
+Alhfric
+Berhtwy
+Reder
+Wulfa
+Aldrelm
+Helman
+Breda
+Stomath
+Ceolher
+Mane
+Gauwilh Payney
+Vyncent Jamyth
+Ryany Liford
+Tharrey
+Walda
+Wine
+Rancis
+Ealwils
+Harlan
+Brichye Floydye
+Georguy Dyley
+Cirher
+Burghre
+Wulfa
+Nathye
+Tane
+Reward Gysby
+Aered
+Ethed
+Vyncis Quinte
+Narder
+Gralphye
+Brobert Koerwe
+Ephes
+George Nere
+Reyny
+Arryn Hammorl
+Wulfa
+Ereth
+Anet
+Sane Foxe
+Gytheue
+Lede
+Audreyn
+Tidhiua
+Cece
+Aben
+Enell Faney
+//
+[Dwarf]4,2,3,1
+Umrar
+Alin
+Gedu
+Anzin
+Urund
+Bifar
+Gili
+Banarv
+Kadu
+Kada
+Bifund
+Dinain
+Urin
+Bali
+Akan
+Thrinan
+Dainarv
+Bori
+Kali
+Bari
+Ukar
+Undin
+Kharkal
+Bali
+Gamin
+Khimin
+Alin
+Dwari
+Khuda
+Kunan
+Gedu
+Glinain
+Gamah
+Mili
+Nanain
+Oril
+Gimli
+Thrinain
+Thari
+Turi
+Gimli
+Umral
+Thrinain
+Dinain
+Ziri
+Gedu
+Dinarv
+Khimil
+Frinain
+Telchund
+Mahar
+Muli
+Nanarv
+Grukurd
+Thimah
+Funda
+Amin
+Thori
+Khori
+Gamin
+Thudu
+Kada
+Amin
+Banarv
+Grori
+Kheli
+Sanzir
+Gili
+Dwali
+Abat
+Alin
+Bali
+Kari
+Frinan
+Thrazir
+Umrar
+Khuda
+Kadu
+Khudu
+Abar
+Dainan
+Umrad
+Thrinan
+Nainarv
+Thali
+Thimah
+Alin
+Kadu
+Udlal
+Ziri
+Linan
+Bifund
+Khari
+Urin
+Shari
+Mali
+Kali
+Urund
+Ziri
+Dwali
+//
+[Elf]1,4,3,2
+Thilebre
+Celemmaedhr
+Anwel
+Galionarf
+Finore
+Aliorfir
+Ellalad
+Beli
+Mahtaneth
+Galenwe
+Ecthelwel
+Finore
+Laduili
+Fingali
+Egan
+Lasaere
+Gonarfin
+Goladir
+Findiore
+Erdhil
+Annaengon
+Saerodor
+Ingweron
+Carodil
+Elegnon
+Minore
+Aladas
+Elemmas
+Alior
+Penlegal
+Finasaer
+Elrodh
+Celador
+Emmalad
+Eleg
+Dilinel
+Curasaer
+Ebon
+Egor
+Maeglungol
+Penlegon
+Fingali
+Elufin
+Ilingor
+Ahimlil
+Olan
+Mahtore
+Enwelel
+Galomak
+Engon
+Lebeli
+Mirandor
+Iminas
+Penlasaer
+Egahtas
+Akin
+Golindil
+Elrorn
+Mothere
+Indingwel
+Galdili
+Arador
+Feanore
+Ellaldin
+Finwioneth
+Golure
+Ahtas
+Erened
+Mionethald
+Elufil
+Lasaere
+Golador
+Feanasaer
+Amror
+Elenwel
+Galegelm
+Aralad
+Finerdhil
+Lodire
+Pengali
+Curondel
+Ladore
+Endir
+Eglindel
+Alathin
+Gimlinor
+Diladhing
+Golfinar
+Oron
+Gelmaedhre
+Aebrin
+Galathil
+Enwellad
+Celomin
+Golinael
+Emman
+Caranwe
+Gilgonar
+Eomior
+Elebon
+//
+[Halfling]1,3,2,4 -RARE
+Narder Kelley
+Baldo
+Athard
+Ernam
+Ibrard Chubburr
+Ichol
+Holan Ason
+Jago
+Walteph
+Reder
+Gery Harpyc
+Iging
+Finy Hammer
+Tephye
+Stery Benthey
+Edmund
+Mado
+Wilhye
+Iser
+Johny Loyde
+Lexand
+Erling Offich
+Imar
+Imard Diggle
+Anders
+Pholes Awer
+Sonas
+Fosco
+Albon
+Undas
+Gyles
+Garas Banksi
+Lesym
+Holme Diggly
+Reder
+Eric Buck
+Manod
+Ephes
+Reyny
+Cottolph
+Thildo
+Berny Noke
+Sterey
+Riffin
+Robern
+Manard
+Symas
+Warder Arron
+Frogo
+Ewip Mery
+Hardo
+Gundo Basi
+Lanco Marchin
+Johny
+Reder
+Ahald Took
+Hildo
+Waltin
+Gareg
+Tiny
+Halfo
+Tomond
+Andrers Lytcey
+Graffin Wente
+Gileon Alard
+Adoc Boffairb
+Fastric
+Gilip Cere
+Wyny
+Stephye
+Heny
+Ryany
+Hamond
+Finy
+Hamund Byne
+Hughye
+Bered
+Berod Burrow
+Alcoc
+Alew
+Alard Geddaye
+Lesym Clowe
+Hobso
+Richye
+Baldo
+Maras Boffin
+Pippin
+Anthond
+Hildo
+//
+[Orc]5,1,1,3 -RARE -DISLIKED
+Lagduf
+Lagdush
+Luga
+Oldog
+Goluk
+Othrol
+Golfimb
+Bulug
+Lugduf
+Golfimb
+Lagduf
+Lukil
+Snakhagr
+Gorga
+Lugdush
+Lagdush
+Olfil
+Snakhur
+Orcol
+Luga
+Mauhak
+Baga
+Uhuk
+Golfimb
+Radbolg
+Gashak
+Gashagr
+//
+[Drow] 1,5,3,1 -RARE -DISLIKED
+Gelree Ghylo
+Herde Xara
+Saonyon Coban
+Phaszme Brethe
+Taree Ouvryl
+Amak Duilo
+Feinid Waeglo
+Vale Dhuna
+Hounde Vrinne
+Belgin Ssambrae
+Arar Melyl
+Zenagh Telo
+Alar Hilo
+Vale Claundo
+Quilde Tore
+Nyonim Phalo
+Ilraer Alann
+Male Urdep
+Jaree Quavae
+Krizzte Azzar
+Berguld Sseera
+Rynid Huni
+Quilde Colo
+Male Urdet
+Myree Ziira
+Raghar Rhalo
+Viree Alervs
+Nide Anchet
+Naree Ennan
+Inim Tyrra
+Masoj Velo
+Tele Tyne
+Tele Vine
+Rikle Githomd
+Berguld Sseerae
+Yarar Glifar
+Dinyon Glaelo
+Wode Clarna
+Rinad Wyndorn
+Veree Blossza
+Tlynir Huune
+Garee Tyne
+Ronde Deepan
+Sornid Tore
+Cale Cormrae
+Seldszordr Quavae
+Male Dylo
+Dale Ghauna
+Rahca Tseera
+Gharee Filo
+Jeggree Bluene
+Durde Halo
+Maree Rhylo
+Branor Despan
+Ginaf Alael
+Yalas Tarra
+Gharee Zaphra
+Krizzakn Kena
+Dipree Frilaund
+Inin Kena
+Sole Tiirne
+Lothint Lhalo
+Alar Jhalo
+Tseldszordr Halo
+Kelnagh Addar
+Bhaszme Harne
+Sabree Huune
+Ilraen Phauna
+Jeggree Tiirna
+Dinozz Ormraen

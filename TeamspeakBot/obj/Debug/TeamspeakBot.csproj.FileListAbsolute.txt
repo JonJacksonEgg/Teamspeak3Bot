@@ -1,0 +1,17 @@
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\obj\Debug\TeamspeakBot.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\obj\Debug\TeamspeakBot.csproj.ResolveComReference.cache
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\bin\Debug\NAudio.dll
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\bin\Debug\NAudio.xml
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\bin\Debug\TeamspeakBot.exe.config
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\bin\Debug\TeamspeakBot.exe
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\bin\Debug\TeamspeakBot.pdb
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\obj\Debug\TeamspeakBot.exe
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\obj\Debug\TeamspeakBot.pdb
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\bin\Debug\Google.GData.Client.dll
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\bin\Debug\Google.GData.YouTube.dll
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\bin\Debug\libvideo.dll
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Jon\Desktop\MyPrograms\Teamspeak Bot (General)\TeamspeakBot\TeamspeakBot\bin\Debug\Newtonsoft.Json.xml
